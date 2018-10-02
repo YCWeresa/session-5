@@ -1,6 +1,15 @@
 body {
   position: relative;
 }
-
+.main-header{
+	color: blue;
+	text-transform: uppercase;
+}
+body div h2 {
+		color: red;
+}
+#header-level-3{
+	color: yellow;
+} 
 #fixed-block {
 }
